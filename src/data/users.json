@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Tomas Bohn Guixeras",
+    "email": "tomasbohngs@gmail.com",
+    "rol": "superadmin",
+    "blocked": false
+  },
+  {
+    "id": 2,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Laura Smith",
+    "email": "laura.smith@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 3,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "rol": "user",
+    "blocked": true
+  },
+  {
+    "id": 4,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Maria Rodriguez",
+    "email": "maria.rodriguez@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 5,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Chris Brown",
+    "email": "chris.brown@example.com",
+    "rol": "admin",
+    "blocked": false
+  },
+  {
+    "id": 6,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Emily White",
+    "email": "emily.white@example.com",
+    "rol": "user",
+    "blocked": true
+  },
+  {
+    "id": 7,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Daniel Johnson",
+    "email": "daniel.johnson@example.com",
+    "rol": "admin",
+    "blocked": false
+  },
+  {
+    "id": 8,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Sophie Miller",
+    "email": "sophie.miller@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 9,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Alex Turner",
+    "email": "alex.turner@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 10,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Isabella Davis",
+    "email": "isabella.davis@example.com",
+    "rol": "admin",
+    "blocked": true
+  },
+  {
+    "id": 11,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Ethan Wilson",
+    "email": "ethan.wilson@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 12,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Olivia Brown",
+    "email": "olivia.brown@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 13,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Mason Taylor",
+    "email": "mason.taylor@example.com",
+    "rol": "admin",
+    "blocked": true
+  },
+  {
+    "id": 14,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "Ava Harris",
+    "email": "ava.harris@example.com",
+    "rol": "user",
+    "blocked": false
+  },
+  {
+    "id": 15,
+    "avatar": "https://picsum.photos/200",
+    "fullName": "William Clark",
+    "email": "william.clark@example.com",
+    "rol": "user",
+    "blocked": false
+  }
+]

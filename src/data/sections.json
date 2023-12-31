@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Users",
+        "slug": "Users",
+        "icon": "users"
+    },
+    {
+        "id": 2,
+        "name": "Products",
+        "slug": "Products",
+        "icon": "products"
+    },
+    {
+        "id": 3,
+        "name": "Categories",
+        "slug": "Categories",
+        "icon": "categories"
+    },
+    {
+        "id": 4,
+        "name": "Sales",
+        "slug": "Sales",
+        "icon": "sales"
+    }
+]
